@@ -335,22 +335,10 @@ h4 {
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 60px;
-  margin-bottom: 30px;
+  margin-bottom: 90px;
   /* padding-bottom: 50px; */
 }
-#submit {
-  color: white;
-  display: flex;
-  justify-content: center;
-  margin-left: 20px;
-  margin-bottom: 80px;
-  margin-top: 10px;
-  margin-left: 24%;
-  border-radius: 5px;
-  background-color: rgb(126, 58, 58);
-  opacity: 0.6;
-  padding: 4px;
-}
+
 #submit:hover {
   cursor: pointer;
 }
@@ -424,13 +412,15 @@ h3 {
   margin-right: 100px;
 }
 textarea {
-  background-color: rgba(213, 147, 94, 0.6);
   border-color: (210, 73, 91, 255);
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 5px;
 }
 input {
-  background-color: rgba(213, 147, 94, 0.6);
+  background-color: rgba(255, 255, 255, 0.7);
   border-color: brown;
   border-width: 0.02em;
+  padding: 4px;
 }
 #copyright {
   /* position: absolute;
