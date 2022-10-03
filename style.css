@@ -345,10 +345,11 @@ h4 {
   margin-left: 20px;
   margin-bottom: 80px;
   margin-top: 10px;
-  margin-left: 22%;
+  margin-left: 24%;
   border-radius: 5px;
   background-color: rgb(126, 58, 58);
   opacity: 0.6;
+  padding: 4px;
 }
 #submit:hover {
   cursor: pointer;
@@ -446,6 +447,10 @@ input {
 }
 #second ul {
   margin-left: 70px;
+  text-decoration: none;
+}
+#second ul li {
+  text-decoration: none;
 }
 #back {
   background-color: blanchedalmond;
